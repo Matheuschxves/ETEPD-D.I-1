@@ -1,2 +1,2 @@
-# ETEPD-D.I-1
-Todos os meu protótipos e códigos da matéria de Design de Interface
+# Projeto de site sobre algum artista.
+Projeto da matéria Design de Interfaces 1. Código com erro na navbar, pois foi meu primeiro site.
